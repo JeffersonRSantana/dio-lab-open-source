@@ -1,4 +1,4 @@
-# JeffersonRSantana
+# Jefferson R. Santana
 Olá a todos! Sou o Jefferson e estou em transição para a área de tecnologia. Atualmente, estou me formando em Análise e Desenvolvimento de Sistemas e me dedicando ao maximo no meu aprendizado.
 
 Estou gostando muito desse novo desafio e me sinto empolgado com o progresso que tenho feito até agora. Cada linha de código é um passo em direção a um novo conjunto de habilidades, e estou animado para ver onde isso me levará.
